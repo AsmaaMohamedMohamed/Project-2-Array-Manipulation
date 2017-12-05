@@ -1,4 +1,3 @@
-# Project-2-Array-Manipulation
 /****************************************
 * Project-2-Array-Manipulation
 * It is a project which :
