@@ -1,0 +1,2 @@
+# Project-2-Array-Manipulation
+It is a project which :  >>asks user if he wants to use array manipulation prog   >>reads req array elements from user  >>asks user to choose one of those operations : -get max element -get min element  -sort array   -search an element in array >>in case of getting maximum a new array will be created started with max then increased by one to the end   >>asks user to choose sorting algorithm:   -selection sort    -bubble sort  >>asks user to choose searching algorithm:  -linear search   -binary search
